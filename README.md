@@ -1,5 +1,5 @@
 # Projet-g-nie-logiciel
 
-Simonnet Pierre \n
+Simonnet Pierre
 Rubens Roméo 
 Rahou Othman
